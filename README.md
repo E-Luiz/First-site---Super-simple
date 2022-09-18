@@ -1,2 +1,2 @@
-# First-site---Super-simple
+# first-site-super-simple
 First go with a super basic layout. Additional HTML, CSS, and JS will be added as I go.
